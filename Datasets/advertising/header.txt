@@ -1,0 +1,1 @@
+TV budget (in thousands), Radio Budget (in thousands), Newspaper Budget (in thousands), Sales Made (in thousands)
